@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kirill
+- 👀 I’m interested in pyhthon development 
+- 🌱 I’m currently learning python language 
+- 📫 How to reach me telegram: @dimencya, +375292849123 
